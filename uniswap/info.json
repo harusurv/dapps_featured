@@ -3,5 +3,5 @@
 	"url":"https://uniswap.org",
 	"tags":1,
 	"defaultChain":1,
-	"supportedChains":1
+	"supportedChains":[1]
 }
