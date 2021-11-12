@@ -1,0 +1,7 @@
+{
+	"name":"PancakeSwap",
+	"url":"https://pancakeswap.info/",
+	"tags":2,
+	"defaultChain":56,
+	"supportedChains":[56]
+}
