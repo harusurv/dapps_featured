@@ -1,5 +1,7 @@
 {
 	"name":"Uniswap",
 	"url":"https://uniswap.org",
-	"category":1
+	"tags":1,
+	"defaultChain":1,
+	"supportedChains":1
 }
