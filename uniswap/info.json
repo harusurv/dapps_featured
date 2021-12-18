@@ -1,5 +1,6 @@
 {
 	"name":"Uniswap",
+	"description":"Dapp Exchange",
 	"url":"https://uniswap.org",
 	"tags":1,
 	"defaultChain":1,
