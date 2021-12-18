@@ -1,5 +1,6 @@
 {
 	"name":"PancakeSwap",
+	"description":"Other DExchange",
 	"url":"https://pancakeswap.info/",
 	"tags":2,
 	"defaultChain":56,
