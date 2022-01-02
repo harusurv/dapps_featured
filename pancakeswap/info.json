@@ -4,5 +4,7 @@
 	"url":"https://pancakeswap.info/",
 	"tags":2,
 	"defaultChain":56,
-	"supportedChains":[56]
+	"supportedChains":[56],
+	"popularity":10,
+	"date":1641144039
 }
