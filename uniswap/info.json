@@ -5,6 +5,7 @@
 	"tags":1,
 	"defaultChain":1,
 	"supportedChains":[1],
+	"featured":true,
 	"popularity":7,
 	"date":1641144070
 }
