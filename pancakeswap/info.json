@@ -6,5 +6,6 @@
 	"defaultChain":56,
 	"supportedChains":[56],
 	"popularity":10,
-	"date":1641144039
+	"date":1641144039,
+	"featured":false
 }
