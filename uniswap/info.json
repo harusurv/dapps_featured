@@ -4,5 +4,7 @@
 	"url":"https://uniswap.org",
 	"tags":1,
 	"defaultChain":1,
-	"supportedChains":[1]
+	"supportedChains":[1],
+	"popularity":10,
+	"date":1641144040
 }
